@@ -7,6 +7,5 @@ Hello there, I'm Tom from Poland.
 * 💻 HTML, CSS, JS, TS
 
 ## Contact
-📫 How to reach me: 
 * https://www.linkedin.com/in/tomskid/
-* 📧 dmowski.tomek@gmail.com
+* dmowski.tomek@gmail.com
